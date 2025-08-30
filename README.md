@@ -6,7 +6,7 @@ html
 
 ##  About Me  
 <p>  
-I am a learner in the **ALX Software Engineering Program**, driven by my passion for <strong>[your passion – e.g., building impactful applications / crafting elegant code / solving real-world problems]</strong>. Inspired by <strong>innovation, teamwork, transformation through tech</strong>, I’m building my career to <strong>empower underserved communities, create scalable tools, drive digital inclusion</strong>.  
+I am a learner in the ALX Software Engineering Program, driven by my passion for <strong>building impactful applications / crafting elegant code / solving real-world problems</strong>. Inspired by <strong>innovation, teamwork, transformation through tech</strong>, I’m building my career to <strong>empower underserved communities, create scalable tools, drive digital inclusion</strong>.  
 </p>
 
 ---
