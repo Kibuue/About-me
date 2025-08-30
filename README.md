@@ -37,7 +37,7 @@ I am a learner in the ALX Software Engineering Program, driven by my passion for
 - **Languages:** HTML · CSS · JavaScript · Python  
 - **Frameworks & Tools:** Git · GitHub
 - **Soft Skills:** Team Collaboration · Time Management · Problem Solving · Peer Learning
-- **Learning Methods:** Project-Based Learning · Live Peer Sessions · Research-Oriented Approach :contentReference[oaicite:0]{index=0}
+- **Learning Methods:** Project-Based Learning · Live Peer Sessions · Research-Oriented Approach :contentReference
 
 ---
 
@@ -45,8 +45,8 @@ I am a learner in the ALX Software Engineering Program, driven by my passion for
 <p>At ALX, the intensity of the program has taught me resilience and resourcefulness. From starting with Git and GitHub basics to embracing peer learning days and rapid project cycles—I've cultivated a growth mindset through hands-on practice.  
 </p>  
 <ul>
-  <li>Documenting my journey across platforms like Twitter, engaging with peers and mentors :contentReference[oaicite:1]{index=1}.</li>
-  <li>Evolving from learning fundamentals to building full applications under a structured weekly schedule :contentReference[oaicite:2]{index=2}.</li>
+  <li>Documenting my journey across platforms like Twitter, engaging with peers and mentors.</li>
+  <li>Evolving from learning fundamentals to building full applications under a structured weekly schedule.</li>
 </ul>
 
 ---
