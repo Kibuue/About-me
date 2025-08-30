@@ -13,7 +13,7 @@ I am a learner in the ALX Software Engineering Program, driven by my passion for
 
 ##  My Goals  
 <ul>
-  <li>Immerse myself in challenging **front-end and back-end development** using technologies like JavaScript, Python, HTML, CSS, and more.</li>
+  <li>Immerse myself in challenging Back-end development using technologies like JavaScript, Python, HTML, CSS, and more.</li>
   <li>Develop robust, user-friendly projects that reflect real-world utility and creativity.</li>
   <li>Collaborate with mentors and peers to grow both technically and professionally.</li>
 </ul>
