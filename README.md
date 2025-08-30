@@ -6,7 +6,7 @@ html
 
 ##  About Me  
 <p>  
-I am a learner in the **ALX Software Engineering Program**, driven by my passion for <strong>[your passion – e.g., building impactful applications / crafting elegant code / solving real-world problems]</strong>. Inspired by <strong>[what inspires you – e.g., innovation, teamwork, transformation through tech]</strong>, I’m building my career to <strong>[your vision – e.g., empower underserved communities, create scalable tools, drive digital inclusion]</strong>.  
+I am a learner in the **ALX Software Engineering Program**, driven by my passion for <strong>[your passion – e.g., building impactful applications / crafting elegant code / solving real-world problems]</strong>. Inspired by <strong>innovation, teamwork, transformation through tech</strong>, I’m building my career to <strong>empower underserved communities, create scalable tools, drive digital inclusion</strong>.  
 </p>
 
 ---
@@ -35,8 +35,8 @@ I am a learner in the **ALX Software Engineering Program**, driven by my passion
 
 ##  Skills & Tools  
 - **Languages:** HTML · CSS · JavaScript · Python  
-- **Frameworks & Tools:** Git · GitHub · [e.g., Flask, React, Node.js]  
-- **Soft Skills:** Team Collaboration · Time Management · Problem Solving · Peer Learning (a core part of ALX culture)  
+- **Frameworks & Tools:** Git · GitHub
+- **Soft Skills:** Team Collaboration · Time Management · Problem Solving · Peer Learning
 - **Learning Methods:** Project-Based Learning · Live Peer Sessions · Research-Oriented Approach :contentReference[oaicite:0]{index=0}
 
 ---
@@ -46,14 +46,17 @@ I am a learner in the **ALX Software Engineering Program**, driven by my passion
 </p>  
 <ul>
   <li>Documenting my journey across platforms like Twitter, engaging with peers and mentors :contentReference[oaicite:1]{index=1}.</li>
-  <li>Evolving from learning fundamentals (e.g., C, Python) to building full applications under a structured weekly schedule :contentReference[oaicite:2]{index=2}.</li>
+  <li>Evolving from learning fundamentals to building full applications under a structured weekly schedule :contentReference[oaicite:2]{index=2}.</li>
 </ul>
 
 ---
 
 ##  Get in Touch  
 <p>Let’s connect and collaborate! You can reach me via:</p>  
-- **Email:** kibuue@gmail.com  
-- **LinkedIn:** http://www.linkedin.com/in/esther-kibuu
-- **Twitter/GitHub:** @kibuue  
+
+- <p>Email:</p>  kibuue@gmail.com
+  
+- <p>LinkedIn:</p>  http://www.linkedin.com/in/esther-kibuu
+  
+- <p>GitHub:</p>  @kibuue  
 
